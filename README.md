@@ -16,7 +16,7 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 
 ## 📬 Get in Touch:
 - 💼 [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
-- 📞 [Phone : tel:+201010871072](tel:+201010871072)
+📞 [Phone: +201010871072](tel:+201010871072)
 - 📱 [WhatsApp](https://wa.me/201010871072)
 
 
