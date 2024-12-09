@@ -22,6 +22,8 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 ## 🏆 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=prs&theme=radical)
+
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and contribute to open-source projects!
