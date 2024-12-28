@@ -24,6 +24,7 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/AhmedAbokhatwa?label=Followers&style=social)
+![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 
 ---
 
