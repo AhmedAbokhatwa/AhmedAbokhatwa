@@ -8,8 +8,9 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - 🌍 I believe in the power of open-source solutions and love contributing to the community.
 
 ## 🛠️ My Skills:
+- **Framework:** (Frappe ERPNext), Django,Flask, RESTful API
 - **Backend:** Frappe, ERPNext, Python, API Integration
-- **Frontend:** JavaScript, HTML, CSS, React (optional for custom Frappe apps)
+- **Frontend:** JavaScript, HTML, CSS, React 
 - **Databases:** MySQL, MariaDB
 - **Version Control:** Git, GitHub
 - **Tools:** Docker, Nginx, GitHub Actions (CI/CD)
@@ -19,7 +20,6 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - 📱 [WhatsApp](https://wa.me/201010871072)
 
 
-## 🏆 My GitHub Stats:
 ## 🏆 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blue)
