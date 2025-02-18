@@ -20,11 +20,11 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - 📱 [WhatsApp](https://wa.me/201010871072)
 
 
-## 🏆 My GitHub Stats:
+## 🏆 My GitHub Stats: ![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/AhmedAbokhatwa?label=Followers&style=social)
-![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 
 ---
 
