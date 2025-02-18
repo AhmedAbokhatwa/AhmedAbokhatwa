@@ -16,11 +16,12 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - **Tools:** Docker, Nginx, GitHub Actions (CI/CD)
 
 ## 📬 Get in Touch:
+![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 - 💼 [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
 - 📱 [WhatsApp](https://wa.me/201010871072)
 
 
-## 🏆 My GitHub Stats: ![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
+## 🏆 My GitHub Stats: 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blue)
