@@ -22,8 +22,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
          alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="mailto:ahmedabkhatwa1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+  <a href="mailto:ahmedabukhatwa1@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
          alt="Gmail" width="40" height="40" />
   </a>
 </p>
