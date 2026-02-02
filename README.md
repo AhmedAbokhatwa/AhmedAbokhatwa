@@ -53,7 +53,6 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,vue,nodejs,express,tailwind,bootstrap,react,mysql,mongodb,postgresql,sqlite,redis,nginx,docker,git,github,postman,linux,vscode,bash" alt="My Skills" />
   </a>
-  &nbsp;<!-- مسافة بسيطة -->
   <!-- باقي اللوجوهات -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
