@@ -48,9 +48,7 @@ Building and Customizing ERP Solutions | Consulting 🕊
 
 ## 🧠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,vue,tailwind,react,mysql,mongodb,postgresql,redis,nginx,docker,git,github,Postman,linux)](https://skillicons.dev)
-
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,vue,tailwind,react,mysql,mongodb,postgresql,redis,nginx,docker,git,github,postman,linux,vscode,pycharm,phpstorm,webstorm,bash)](https://skillicons.dev)<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
   <!-- Frappe & ERPNext -->
   <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
