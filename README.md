@@ -49,16 +49,15 @@ Building and Customizing ERP Solutions | Consulting 🕊
 ## 🧠 Languages and Tools:
 
 <p align="left">
-  <!-- Skillicons.dev -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,vue,nodejs,express,tailwind,bootstrap,react,mysql,mongodb,postgresql,sqlite,redis,nginx,docker,git,github,postman,linux,vscode,bash" alt="My Skills" />
-  </a>
-  <!-- باقي اللوجوهات -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
-  <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" width="40" height="40" />&nbsp;
+  <img src="https://frappe.io/files/erpnext53456f.png" width="40" height="40" />&nbsp;
 </p>
-
 
 ---
 
