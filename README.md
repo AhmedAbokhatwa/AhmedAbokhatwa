@@ -75,8 +75,9 @@
   <img src="https://img.shields.io/github/stars/AhmedAbokhatwa?label=Stars&style=flat-square&color=yellow" alt="Stars" />
 </p>
 
-<p align="center">
-![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white"
+       alt="Pro Achiever Badge" />
 </p>
 </div>
