@@ -50,8 +50,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />&nbsp;
   <!-- Frappe & ERPNext -->
-  <img src="https://frappe.io/files/erpnext53456f.png" alt="Frappe" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/frappe/design/master/logos/png/erpnext-logo-blue.png" alt="ERPNext" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
+  <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />
 </p>
 
 
