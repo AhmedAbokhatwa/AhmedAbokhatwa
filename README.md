@@ -50,32 +50,8 @@ Building and Customizing ERP Solutions | Consulting 🕊
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />&nbsp;
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-  <!-- operating System-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />&nbsp;
-  <!-- Frappe & ERPNext -->
-  <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
-  <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,vue,tailwind,react,mysql,mongodb,docker,git,github,linux)](https://skillicons.dev)
+
 </p>
 
 
