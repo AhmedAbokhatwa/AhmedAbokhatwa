@@ -22,6 +22,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
          alt="WhatsApp" width="40" height="40" />
   </a>
+  <a href="mailto:ahmedabkhatwa1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+         alt="Gmail" width="40" height="40" />
+  </a>
 </p>
 
 ![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
@@ -37,7 +41,7 @@
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
