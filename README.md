@@ -7,13 +7,13 @@
 *Transforming business operations through intelligent automation and custom ERP solutions*
 
 🔍 **Currently interested in:**  
-Improving backend performance optimization in large-scale applications
+Improving backend performance optimization in large-scale applications | collaborate on Open-source full-stack web applications and eCommerce / ERP / SaaS platforms
 Building and Customizing ERP Solutions | Consulting 🕊
 
 💬 **Ask me about:**  
 • Frappe ERPNext • Vue JS • Django • Node.js 
 
-📄 **Know more about my experience:**  
+📄 **Know more about my experience See My Resume:**  
 <a href="https://drive.google.com/file/d/1VVdGq1BvpSiJlKSaHECWUZrKbYjfICYb/view?usp=sharing"
    target="_blank" title="View CV">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
