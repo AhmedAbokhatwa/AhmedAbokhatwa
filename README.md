@@ -1,67 +1,80 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source development and process automation. I work on ERP customizations, integrations, and creating efficient workflows.
+<div align="center">
+  
+# 👋 Hey there, I'm Ahmed!
 
-## 🚀 About Me:
-- 👨‍💻 I specialize in **Frappe/ERPNext development**, creating custom modules and automating business processes.
-- 🔧 I'm passionate about **problem-solving**, **automation**, and **optimizing workflows** in business operations.
-- 🌍 I believe in the power of open-source solutions and love contributing to the community.
+### Senior Frappe/ERPNext Developer | ERP Solutions Architect | Open Source Enthusiast
 
-## 📬 Connect with me:
+*Transforming business operations through intelligent automation and custom ERP solutions*
+
+---
+
+</div>
+## 📫 Connect with me:
+
+<p align="left">
+  <a href="http://linkedin.com/in/ahmed-abukhatwa-641a76251" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://wa.me/201010871072" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+         alt="WhatsApp" width="40" height="40" />
+  </a>
+</p>
 
 ![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
-- 💼 [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251) <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-- 📱 [WhatsApp](https://wa.me/201010871072)
+
 ## 🧠 Languages and Tools:
 
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="40" height="40" style="margin-right: 10px;" />
+       alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+       alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-       alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+       alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-       alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
-
+       alt="CSS3" width="40" height="40" />
+  
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-       alt="Vue.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg"
-       alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" />
+       alt="Vue.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+       alt="Tailwind CSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
-       alt="Bootstrap" width="40" height="40" style="margin-right: 10px;" />
+       alt="Bootstrap" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-       alt="React" width="40" height="40" style="margin-right: 10px;" />
-
+       alt="React" width="40" height="40" />
+  
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-       alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+       alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"
-       alt="MariaDB" width="40" height="40" style="margin-right: 10px;" />
+       alt="MariaDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-
+       alt="PostgreSQL" width="40" height="40" />
+  
   <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-       alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+       alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-       alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
+       alt="Nginx" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
+       alt="GitHub" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
-       alt="Postman" width="40" height="40" style="margin-right: 10px;" />
-
+       alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+       alt="Postman" width="40" height="40" />
+  
   <!-- Frappe & ERPNext -->
-  <img src="https://raw.githubusercontent.com/frappe/frappe/master/docs/images/frappe-icon.svg"
-       alt="Frappe" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/frappe/erpnext/master/docs/images/erpnext-icon.svg"
-       alt="ERPNext" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/4999?s=200&v=4"
+       alt="Frappe" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/4999?s=200&v=4"
+       alt="ERPNext" width="40" height="40" />
 </p>
-
 
 
 
