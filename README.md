@@ -20,13 +20,7 @@ Building and Customizing ERP Solutions | Consulting 🕊
        alt="CV" width="42" height="42" style="margin-top: 10px;" />
 </a>
 
-
-
-</div>
-
----
-
-## 📫 Connect with me
+** 📫 Connect with me
 
 <p align="center">
   <a href="http://linkedin.com/in/ahmed-abukhatwa-641a76251" target="_blank" title="LinkedIn">
@@ -45,6 +39,8 @@ Building and Customizing ERP Solutions | Consulting 🕊
   </a>
 </p>
 
+
+</div>
 
 ---
 
