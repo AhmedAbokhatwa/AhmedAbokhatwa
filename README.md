@@ -48,23 +48,10 @@ Building and Customizing ERP Solutions | Consulting 🕊
 
 ## 🧠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,vue,tailwind,react,mysql,mariadb,mongodb,docker,git,github,linux)](https://skillicons.dev)
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,vue,tailwind,react,mysql,mongodb,postgresql,redis,nginx,docker,git,github,Postman,linux)](https://skillicons.dev)
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-  <!-- operating System-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />&nbsp;
   <!-- Frappe & ERPNext -->
   <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
   <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />&nbsp;
