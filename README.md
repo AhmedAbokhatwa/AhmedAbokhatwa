@@ -1,8 +1,6 @@
-# Welcome to My GitHub Profile 👋
-
 <div align="center">
   
-# 👋 Hey there, I'm Ahmed!
+# Welcome to My GitHub Profile 👋 Hey there, I'm Ahmed!
 
 ### Senior Frappe/ERPNext Developer | ERP Solutions Architect | Open Source Enthusiast
 
@@ -11,6 +9,8 @@
 ---
 
 </div>
+![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
+
 ## 📫 Connect with me:
 
 <p align="left">
@@ -58,14 +58,36 @@
   <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />
 </p>
 
+![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 
 ## 🏆 My GitHub Stats: 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&hide_title=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/AhmedAbokhatwa?label=Followers&style=social)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAbokhatwa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbokhatwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmedAbokhatwa?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AhmedAbokhatwa?label=Stars&style=flat-square&color=yellow" alt="Stars" />
+</p>
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and contribute to open-source projects!
+<div align="center">
+  
+### 💬 Let's Collaborate!
 
+*Thanks for visiting! Feel free to explore my repositories and let's build something amazing together.* ✨
+
+**Open to:** ERP Consulting • Custom Development • Open Source Contributions
+
+</div>
