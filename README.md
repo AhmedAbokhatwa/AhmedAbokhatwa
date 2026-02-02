@@ -48,11 +48,9 @@ Building and Customizing ERP Solutions | Consulting 🕊
 
 ## 🧠 Languages and Tools:
 
-<p align="left">
   <!-- Programming Languages -->
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,vue,tailwind,react,mysql,mongodb,docker,git,github,linux)](https://skillicons.dev)
 
-</p>
 
 
 ---
