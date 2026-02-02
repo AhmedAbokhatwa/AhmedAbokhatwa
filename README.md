@@ -1,6 +1,8 @@
 <div align="center">
   
-# Welcome to My GitHub Profile 👋 Hey there, I'm Ahmed!
+# 👋 Hey there, I'm Ahmed! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+[![Github](https://img.shields.io/github/followers/AhmedAbokhatwa?label=Follow%20Me&style=social)](https://github.com/AhmedAbokhatwa)
+
 
 ### Senior Frappe/ERPNext Developer | ERP Solutions Architect | Open Source Enthusiast
 
