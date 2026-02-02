@@ -7,6 +7,12 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - 🔧 I'm passionate about **problem-solving**, **automation**, and **optimizing workflows** in business operations.
 - 🌍 I believe in the power of open-source solutions and love contributing to the community.
 
+## 📬 Connect with me:
+
+![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
+- 💼 [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251) <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+- 📱 [WhatsApp](https://wa.me/201010871072)
+
 ## 🛠️ My Skills:
 - **Framework:** (Frappe ERPNext), Django,Flask, RESTful API
 - **Backend:** Frappe, ERPNext, Python, API Integration
@@ -15,10 +21,15 @@ Hello! I'm a **SENIOR Frappe/ERPNext Developer** with a passion for open-source 
 - **Version Control:** Git, GitHub
 - **Tools:** Docker, Nginx, GitHub Actions (CI/CD)
 
-## 📬 Get in Touch:
-![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
-- 💼 [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
-- 📱 [WhatsApp](https://wa.me/201010871072)
+## 🧠 Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python"
+       width="40"
+       height="40"
+       style="max-width: 100%; height: auto; max-height: 40px;" />
+</p>
 
 
 ## 🏆 My GitHub Stats: 
