@@ -90,7 +90,7 @@ Building and Customizing ERP Solutions | Consulting 🕊
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white"
+  <img src="https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white&color=orange"
        alt="Pro Achiever Badge" />
 </p>
 </div>
