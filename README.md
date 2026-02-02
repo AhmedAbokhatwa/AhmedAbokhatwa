@@ -12,24 +12,31 @@
 
 ![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
 
-## 📫 Connect with me:
+## 📫  Connect with Me
 
-<p align="left">
-  <a href="http://linkedin.com/in/ahmed-abukhatwa-641a76251" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40" height="40" />
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201010871072)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabukhatwa1@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+  <a href="http://linkedin.com/in/ahmed-abukhatwa-641a76251">
+    <img src="https://img.shields.io/badge/-Ahmed_Abukhatwa-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/201010871072" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-         alt="WhatsApp" width="40" height="40" />
+  <a href="https://wa.me/201010871072">
+    <img src="https://img.shields.io/badge/-+20_101_087_1072-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-  <a href="mailto:ahmedabukhatwa1@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-         alt="Gmail" width="40" height="40" />
+  <a href="mailto:ahmedabukhatwa1@gmail.com">
+    <img src="https://img.shields.io/badge/-ahmedabukhatwa1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-![Pro Badge](https://img.shields.io/badge/Pro-Achiever-blue?style=for-the-badge&logo=star&logoColor=white)
+
 
 ## 🧠 Languages and Tools:
 
