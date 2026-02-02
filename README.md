@@ -63,7 +63,11 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
+  <!-- operating System-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+
   <!-- DevOps & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub" width="40" height="40" />&nbsp;
@@ -71,7 +75,7 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />&nbsp;
   <!-- Frappe & ERPNext -->
   <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
-  <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />
+  <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />&nbsp;
 </p>
 
 
