@@ -60,7 +60,6 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />&nbsp;
-
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />&nbsp;
@@ -68,7 +67,6 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mariadb" width="40" height="40" />&nbsp;
-
   <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />&nbsp;
@@ -78,7 +76,6 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />&nbsp;
-
   <!-- Frappe & ERPNext -->
   <img src="https://avatars.githubusercontent.com/u/836974?s=48&v=4" alt="Frappe" width="40" height="40" />&nbsp;
   <img src="https://frappe.io/files/erpnext53456f.png" alt="ERPNext" width="40" height="40" />&nbsp;
