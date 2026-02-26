@@ -1,10 +1,8 @@
 <div align="center">
-  
-# 👋 Hey there, I'm Ahmed! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## 👋 Hey there, I'm Ahmed! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 [![Github](https://img.shields.io/github/followers/AhmedAbokhatwa?label=Follow%20Me&style=social)](https://github.com/AhmedAbokhatwa)
 
-
-### Senior Frappe/ERPNext Developer | ERP Solutions Architect | Open Source Enthusiast
+Senior Software Engineer specializing in Frappe **ERPNext Developer**
 
 *Transforming business operations through intelligent automation and custom ERP solutions*
 
@@ -12,6 +10,7 @@
 Improving backend performance optimization in large-scale applications | collaborate on Open-source full-stack web applications and eCommerce / ERP / SaaS platforms
 Building and Customizing ERP Solutions | Consulting 🕊
 
+📍 **Cairo, Egypt** · 🌍 Open to remote opportunities
 💬 **Ask me about:**  
 • Frappe ERPNext • Vue JS • Django • Node.js 
 
@@ -21,6 +20,8 @@ Building and Customizing ERP Solutions | Consulting 🕊
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
        alt="CV" width="42" height="42" style="margin-top: 10px;" />
 </a>
+
+📍 **Cairo, Egypt** · 🌍 Open to remote opportunities
 
 📫 **Connect with me**
 
