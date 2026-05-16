@@ -1,116 +1,153 @@
-<div align="center">
-
 # Ahmed Abukhatwa
-### Senior Software Engineer · ERPNext & Frappe Developer
-**Cairo, Egypt · Open to Remote Opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abukhatwa-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
-[![Gmail](https://img.shields.io/badge/Email-ahmedabukhatwa1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedabukhatwa1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201010871072-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201010871072)
-[![GitHub followers](https://img.shields.io/github/followers/AhmedAbokhatwa?style=flat&logo=github&label=Follow)](https://github.com/AhmedAbokhatwa)
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbokhatwa&color=0e75b6&style=flat)](https://github.com/AhmedAbokhatwa)
+**Senior ERPNext & Frappe Developer** | Python Backend Engineer | ERP Consultant | Vue.js | Cairo, Egypt | Remote Available
 
-</div>
+📧 ahmedabukhatwa1@gmail.com · [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251) · [WhatsApp](https://wa.me/201010871072) · [GitHub](https://github.com/AhmedAbokhatwa) · [CV](https://drive.google.com/file/d/1VVdGq1BvpSiJlKSaHECWUZrKbYjfICYb/view?usp=sharing)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Senior Software Engineer** specializing in **Frappe Framework** and **ERPNext** development, with deep expertise in building and customizing enterprise-grade ERP systems. I help businesses transform their operations through intelligent automation, custom workflows, and scalable backend architectures.
+I am a Senior Software Engineer specializing in **ERPNext development**, **Frappe Framework customization**, and **Python backend engineering**. I help businesses automate their operations, digitize workflows, and scale their ERP systems through custom Frappe apps, API integrations, and performance-optimized backend architectures.
 
-- 🔭 **Specialization:** Frappe ERPNext · Django · Vue.js · Node.js
-- 🚀 **Focus:** Backend performance optimization in large-scale applications
-- 🌍 **Location:** Cairo, Egypt — available for remote work worldwide
-- 💼 **Open to:** ERP Consulting · Custom Development · Open Source Collaboration
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1VVdGq1BvpSiJlKSaHECWUZrKbYjfICYb/view?usp=sharing)
+My core focus areas:
 
----
+- ERPNext customization and module development
+- Frappe Framework app development from scratch
+- Python backend systems and REST API design
+- Vue.js frontends integrated with Frappe backends
+- POS systems, eCommerce, and SaaS platforms on Frappe
+- Warehouse Management Systems (WMS) on ERPNext
+- ERP deployment, DevOps, and Linux server administration
+- AI automation and workflow integration with ERPNext
 
-## 🎯 What I Do
-
-| Area | Details |
-|---|---|
-| **ERP Development** | Build & customize Frappe ERPNext for enterprise workflows |
-| **Backend Optimization** | Performance tuning, Redis caching, query optimization at scale |
-| **Full-Stack Web** | End-to-end apps with Vue.js, Django, Node.js/Express |
-| **ERP Consulting** | System selection, implementation, integration & customization |
-| **eCommerce & SaaS** | Scalable platforms with modern web technologies |
+I have delivered ERPNext solutions for clients across Egypt, Saudi Arabia, and the USA, including government ministries, logistics companies, legal platforms, charity organizations, and retail businesses.
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Experience
 
-**Languages**
+### Senior ERPNext Developer — CrownCode (Freelance & Consulting)
+**2024 – Present · Remote**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+- Architecting a full SaaS platform built on Frappe Framework targeting the Saudi Arabian market
+- Building custom Frappe apps with Arabic RTL support, dark/light mode, and SEO infrastructure
+- Designing Vue.js + Frappe API integrations with typed service layers and Composition API
+- Managing multi-site ERPNext deployments on Ubuntu VPS with NGINX and supervisor
 
-**Frameworks & Libraries**
+### ERPNext Developer — DMS Plus (Custom Frappe App)
+**2024 – Present**
 
-![Frappe](https://img.shields.io/badge/Frappe-00BCD4?style=flat&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-2490EF?style=flat&logo=erpnext&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- Built a role-based custom permission system using Frappe's DocPerm engine
+- Developed POS shift management: opening/closing workflows, payment reconciliation, and shift reporting
+- Created product grid with warehouse and price list filtering
+- Designed customer management using Frappe Contact and Address doctypes
+- Implemented purchase invoice creation from POS receipts
+- Applied dark mode theming using CSS custom properties across the entire POS interface
 
-**Databases**
+### ERPNext Developer — Retail POS App (Custom Frappe App)
+**2024 – Present**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- Full POS system built on Frappe with Python backend and Vue.js frontend
+- Payment reconciliation logic with per-mode breakdowns and unallocated payment detection
+- API layer via dedicated services architecture — no inline `frappe.call()` throughout
+- Real-time WebSocket integration via Socket.IO configured through NGINX reverse proxy
 
-**DevOps & Tools**
+### ERPNext Consultant & Developer — Various Clients (Upwork / Direct)
+**2022 – Present**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- Delivered ERPNext implementations for clients across logistics, legal, hospitality, and NGO sectors
+- Custom Frappe apps with hooks, fixtures, install scripts, and DocType customization
+- ERPNext upgrades, migration, and production server troubleshooting
+- Background job processing using `frappe.enqueue` with real-time progress via Frappe realtime
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### WMS – Warehouse Management System (Frappe / ERPNext)
+- Custom 3PL warehouse workflows built on ERPNext
+- Auto-assignment of empty bin locations for incoming stock orders
+- Inventory movement optimization and barcode integration
+- Real-time stock tracking and multi-warehouse reporting
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbokhatwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbokhatwa&layout=compact&theme=tokyonight&hide_border=true)
+### ERPNext POS System (Retail App)
+- Full shift management: open, close, reconcile
+- Payment mode tracking with cash/card/online breakdowns
+- Customer-facing receipt and invoice generation
+- Integrated with ERPNext accounts, inventory, and HR modules
 
-</div>
+### CrownCode – ERPNext SaaS Platform
+- Company website and SaaS landing page for ERPNext solutions provider
+- Vue 3 Composition API + Frappe backend
+- Arabic RTL, dark/light mode, SEO meta infrastructure
+- Deployed on Ubuntu VPS with Cloudflare, NGINX proxy, and Vite build pipeline
+
+### Legal Platform – Mosanadah (Frappe / ERPNext)
+- Legal case and consultation management system
+- Integrated Moyasar payment gateway and Taqnyat SMS
+- AI assistant for legal query handling
+
+### Charity Platform – Kiswat Farah (Frappe / ERPNext)
+- Donation and distribution management with WhatsApp integration
+- Google Maps routing for pickup optimization
+- Location-aware driver auto-assignment algorithm
+
+### Charity Platform – Tanfezy (Frappe / ERPNext)
+- Digital intake system with configurable approval workflows
+- Jawaly SMS integration for OTP and notifications
+
+### Hotel Management System – HotelsWave (Frappe / ERPNext)
+- Room reservation system with smart room-matching algorithm
+- Moyasar payment integration
+- AI chatbot for guest interaction
+
+### CV Verification Platform – Taakd (Frappe / ERPNext)
+- Workflow-driven CV verification and candidate screening
+- HyperPay payment integration with automated email notifications
+
+### Ministry of Interior ERP (ERPNext)
+- Digitized employee workflows and approvals for government use
+- Centralized dashboards and reporting modules
+- Replaced paper-based HR and administrative processes
 
 ---
 
-## 🤝 Let's Collaborate
+## Skills
 
-I'm actively looking to collaborate on:
+**ERPNext & Frappe**
+ERPNext customization, Frappe Framework, Frappe app development, DocType design, Frappe hooks, Frappe fixtures, custom permissions, Frappe REST API, frappe.call, frappe.enqueue, background jobs, Frappe realtime, Frappe Permission Types, multi-site setup
 
-- 🏗️ **Frappe / ERPNext** custom apps and integrations
-- 🌐 **Open-source** full-stack web, eCommerce, and SaaS platforms
-- ⚡ **Performance-critical** backend systems and APIs
-- 💡 **ERP consulting** engagements for SMEs and enterprises
+**Backend**
+Python, Python backend development, REST API design, MariaDB, MySQL, Redis, raw SQL optimization, bulk database operations, pagination for large datasets
 
-**Reach out — I respond fast:**
+**Frontend**
+Vue.js, Vue 3, Composition API, JavaScript, HTML, CSS, CSS custom properties, dark mode, Arabic RTL interfaces
 
-<div align="center">
+**DevOps & Infrastructure**
+Linux, Ubuntu, NGINX, supervisor, gunicorn, Git, SSH, VPS administration, Cloudflare, multi-site ERPNext deployment, production server management
 
-[![Email Me](https://img.shields.io/badge/Email_Me-ahmedabukhatwa1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabukhatwa1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ahmed-abukhatwa-641a76251)
-[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201010871072)
-
-</div>
+**Integrations**
+Frappe + Vue.js SPA integration, WebSocket / Socket.IO, Moyasar, HyperPay, Taqnyat SMS, WhatsApp Business API, Google Maps API, n8n automation, OpenAI API
 
 ---
 
-<div align="center">
-<sub>⚡ Senior ERPNext Developer · Frappe Framework Expert · Django · Vue.js · Node.js · Cairo, Egypt · Remote Available</sub>
-</div>
+## What I'm Looking For
+
+I'm open to:
+
+- **ERPNext consulting and development contracts** — remote, part-time or full-time
+- **Frappe Framework custom app development** projects
+- **ERP system implementation** for businesses in Egypt, Saudi Arabia, UAE, or internationally
+- **Open-source collaboration** on Frappe / ERPNext ecosystem tools
+
+---
+
+## Languages
+
+- Arabic — Native
+- English — Professional working proficiency
+
+---
+
+*Senior ERPNext Developer · Frappe Framework Expert · Python Backend Engineer · Vue.js · Cairo, Egypt · Available for Remote Work*
