@@ -150,8 +150,4 @@ I'm open to:
 
 ---
 
-## Pacman Contribution Graph
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/AhmedAbokhatwa/github-pacman/output/pacman-contribution-graph.svg)
-
 *Senior ERPNext Developer · Frappe Framework Expert · Python Backend Engineer · Vue.js · Cairo, Egypt · Available for Remote Work*
