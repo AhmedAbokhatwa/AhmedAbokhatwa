@@ -150,4 +150,27 @@ I'm open to:
 
 ---
 
-*Senior ERPNext Developer · Frappe Framework Expert · Python Backend Engineer · Vue.js · Cairo, Egypt · Available for Remote Work*
+## 👾 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AhmedAbokhatwa/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AhmedAbokhatwa/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/AhmedAbokhatwa/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+## 📌 Projects
+
+Check my pinned repositories to explore backend systems, automation tools, and fullstack applications.
