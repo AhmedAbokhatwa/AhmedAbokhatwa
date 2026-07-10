@@ -2,7 +2,7 @@
 
 **Senior ERPNext & Frappe Developer** | Python Backend Engineer | ERP Consultant | Vue.js | Cairo, Egypt | Remote Available
 
-📧 ahmedabukhatwa1@gmail.com · [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251) · [WhatsApp](https://wa.me/201010871072) · [GitHub](https://github.com/AhmedAbokhatwa) · [CV](https://drive.google.com/file/d/1VVdGq1BvpSiJlKSaHECWUZrKbYjfICYb/view?usp=sharing)
+📧 ahmedabukhatwa1@gmail.com · [LinkedIn](http://linkedin.com/in/ahmed-abukhatwa-641a76251) · [GitHub](https://github.com/AhmedAbokhatwa) · [CV](https://drive.google.com/file/d/1VVdGq1BvpSiJlKSaHECWUZrKbYjfICYb/view?usp=sharing)
 
 ---
 
